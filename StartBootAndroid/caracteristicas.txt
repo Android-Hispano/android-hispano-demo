@@ -1,0 +1,5 @@
+Este proyecto nos va a mostrar como hacer para que una aplicación 
+Android arranque una vez haya iniciado el sistema operativo.
+
+
+Gabriel Pozo
