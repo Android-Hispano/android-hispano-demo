@@ -1,10 +1,17 @@
 package com.aprendiendodeandroid.maps;
 
 import android.os.Bundle;
-import android.app.Activity;
+import android.support.v4.app.FragmentActivity;
 import android.view.Menu;
 
-public class MainActivity extends Activity {
+/**
+ * Esta clase es la principal que va a cargar nuestro layout, donde se encuentra el fragment que
+ * va a poseer el mapa, extendemos de FragmentActivity pero de la version de libreria de soporte
+ * para que funciones con versiones anteriore a Android 11
+ * @author gabriel
+ *
+ */
+public class MainActivity extends FragmentActivity {
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {

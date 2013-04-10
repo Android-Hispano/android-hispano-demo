@@ -1,0 +1,9 @@
+En este proyecto de muestra se va a intentar mostrar de manera simple, gran parte del
+manejo de la API version 2 de Google Maps para Android.
+
+Se va a intentar de comentar la mayor parte del codigo, de todas maneras, en el blog:
+http://www.aprendiendodeandroidymas.com/
+Se van a escribir una serie de post intentando explicar todo este manejo de la API
+
+http://www.aprendiendodeandroidymas.com/2012/12/comenzando-con-google-maps-api-v2-parte.html
+http://www.aprendiendodeandroidymas.com/2012/12/comenzando-con-google-maps-api-v2-parte_31.html
